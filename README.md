@@ -20,7 +20,7 @@
 ![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=PrajjuS&theme=blue-green)
 
 
-# CONNECT ME.
+# Connect Me
 
 [![telegram](https://img.shields.io/badge/PrajjuS-808080?style=for-the-badge&logo=telegram)](https://t.me/PrajjuS) [![Github](https://img.shields.io/badge/PrajjuS-808080?style=for-the-badge&logo=github)](https://github.com/PrajjuS)
 
