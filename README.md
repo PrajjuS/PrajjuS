@@ -13,7 +13,7 @@
 - ![GitHub](https://img.shields.io/badge/GitHUb-000000?style=for-the-badge&logo=github)&nbsp;&nbsp;
 - ![Pycharm](https://img.shields.io/badge/PYcharm-000000?style=for-the-badge&logo=pycharm)&nbsp;&nbsp;
 - ![VCS](https://img.shields.io/badge/visual%20studio%20code-000000?style=for-the-badge&logo=visual-studio-code)&nbsp;&nbsp;
-- ![VCS](https://img.shields.io/badge/turboc++-000000?style=for-the-badge&logo=TurboC++)&nbsp;&nbsp;
+- ![Turbo](https://img.shields.io/badge/turboc++-000000?style=for-the-badge&logo=Turbo_C++)&nbsp;&nbsp;
 
 
 # Most Used Language
