@@ -25,5 +25,5 @@
 
 # Connect Me
 
-[![telegram](https://img.shields.io/badge/Prajwal-808080?style=for-the-badge&logo=telegram)](https://t.me/PrajjuS) [![Github](https://img.shields.io/badge/Prajwal-808080?style=for-the-badge&logo=github)](https://github.com/PrajjuS)
+[![telegram](https://img.shields.io/badge/Prajwal-708090?style=for-the-badge&logo=telegram)](https://t.me/PrajjuS) [![Github](https://img.shields.io/badge/Prajwal-708090?style=for-the-badge&logo=github)](https://github.com/PrajjuS)
 
