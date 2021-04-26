@@ -10,7 +10,6 @@
 - ![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c++)&nbsp;&nbsp;
 - ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)&nbsp;&nbsp;
 - ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)&nbsp;&nbsp;
- 
 ## Tools
 - ![GitHub](https://img.shields.io/badge/GitHUb-000000?style=for-the-badge&logo=github)&nbsp;&nbsp;
 - ![Heroku](https://img.shields.io/badge/heroku-000000?style=for-the-badge&logo=heroku)&nbsp;&nbsp;
