@@ -7,7 +7,7 @@
 
 # MY TOOLS AND LANG.
 
-- ![Python](https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python)&nbsp;&nbsp;
+- ![Python](https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python&theme=black)&nbsp;&nbsp;
 - ![Git](https://img.shields.io/badge/Git-ffffff?style=for-the-badge&logo=git)&nbsp;&nbsp;
 - ![GitHub](https://img.shields.io/badge/GitHUb-ffffff?style=for-the-badge&logo=github)&nbsp;&nbsp;
 - ![Pycharm](https://img.shields.io/badge/PYcharm-ffffff?style=for-the-badge&logo=pycharm)&nbsp;&nbsp;
