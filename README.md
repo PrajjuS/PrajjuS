@@ -17,7 +17,7 @@
 
 # Most Used Language
 
-![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=PrajjuS&theme=blue-green)
+![NOICE](https://github-readme-stats.vercel.app/api/langs/?username=PrajjuS&theme=blue-green)
 
 
 # CONNECT ME.
