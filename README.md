@@ -5,19 +5,19 @@
 
 
 
-# MY TOOLS AND LANG.
+# My Tools and Language
 
+- ![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c++)&nbsp;&nbsp;
 - ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)&nbsp;&nbsp;
-- ![Git](https://img.shields.io/badge/Git-ffffff?style=for-the-badge&logo=git)&nbsp;&nbsp;
-- ![GitHub](https://img.shields.io/badge/GitHUb-ffffff?style=for-the-badge&logo=github)&nbsp;&nbsp;
-- ![Pycharm](https://img.shields.io/badge/PYcharm-ffffff?style=for-the-badge&logo=pycharm)&nbsp;&nbsp;
-- ![VCS](https://img.shields.io/badge/visual%20studio%20code-E52E06?style=for-the-badge&logo=visual-studio-code)&nbsp;&nbsp;
-- ![C++](https://img.shields.io/badge/C++-ffffff?style=for-the-badge&logo=c++)&nbsp;&nbsp;
+- ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)&nbsp;&nbsp;
+- ![GitHub](https://img.shields.io/badge/GitHUb-000000?style=for-the-badge&logo=github)&nbsp;&nbsp;
+- ![Pycharm](https://img.shields.io/badge/PYcharm-000000?style=for-the-badge&logo=pycharm)&nbsp;&nbsp;
+- ![VCS](https://img.shields.io/badge/visual%20studio%20code-000000?style=for-the-badge&logo=visual-studio-code)&nbsp;&nbsp;
 
 
-# MOST USED LANGUAGE
+# Most Used Language
 
-![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=hackelite01&theme=blue-green)
+![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=PrajjuS&theme=blue-green)
 
 
 # CONNECT ME.
