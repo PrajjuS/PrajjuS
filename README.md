@@ -7,7 +7,7 @@
 
 # My Tools and Language
 
-- ![C++](https://img.shields.io/badge/C++-00FFFF?style=for-the-badge&logo=c++)&nbsp;&nbsp;
+- ![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c++)&nbsp;&nbsp;
 - ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)&nbsp;&nbsp;
 - ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)&nbsp;&nbsp;
 - ![GitHub](https://img.shields.io/badge/GitHUb-000000?style=for-the-badge&logo=github)&nbsp;&nbsp;
@@ -22,6 +22,6 @@
 
 # CONNECT ME.
 
-[![telegram](https://img.shields.io/badge/PrajjuS-000000?style=for-the-badge&logo=telegram)](https://t.me/PrajjuS)
+[![telegram](https://img.shields.io/badge/PrajjuS-808080?style=for-the-badge&logo=telegram)](https://t.me/PrajjuS)
 
-[![Github](https://img.shields.io/badge/PrajjuS-000000?style=for-the-badge&logo=github)](https://github.com/PrajjuS)
+[![Github](https://img.shields.io/badge/PrajjuS-808080?style=for-the-badge&logo=github)](https://github.com/PrajjuS)
