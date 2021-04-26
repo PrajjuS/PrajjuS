@@ -5,7 +5,7 @@
 
 
 
-# My Tools and Language
+# My Tools and Languages
 ## Languages
 - ![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c++)&nbsp;&nbsp;
 - ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)&nbsp;&nbsp;
