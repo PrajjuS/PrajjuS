@@ -17,6 +17,10 @@
 - ![VCS](https://img.shields.io/badge/visual%20studio%20code-000000?style=for-the-badge&logo=visual-studio-code)&nbsp;&nbsp;
 - ![Turbo C++](https://img.shields.io/badge/turbo_c++-000000?style=for-the-badge&logo=Turbo_C++)&nbsp;&nbsp;
 
+# Most Used Language
+
+![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=PrajjuS&theme=blue-green)
+
 
 # Connect Me
 
