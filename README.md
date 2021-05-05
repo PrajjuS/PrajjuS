@@ -1,7 +1,7 @@
 # KONICHIWA, I AM PRAJWAL 
 
 
-![Prajwal's Github stats](https://github-readme-stats.vercel.app/api?username=PrajjuS&include_all_commits=true&show_icons=true&theme=midnight-purple)
+![Prajwal's Github stats](https://github-readme-stats.vercel.app/api?username=PrajjuS&show_icons=true&theme=midnight-purple)
 
 
 
