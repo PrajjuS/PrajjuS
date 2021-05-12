@@ -22,4 +22,4 @@
 
 [![telegram](https://img.shields.io/badge/Prajwal-708090?style=for-the-badge&logo=telegram)](https://t.me/PrajjuS) [![Github](https://img.shields.io/badge/Prajwal-708090?style=for-the-badge&logo=github)](https://github.com/PrajjuS)
 
-[![Spotify](https://spotify.prajjus.me/api/spotify)](https://open.spotify.com/user/cotgk31v4nhw20gs5adb29jq5)
+[![Spotify](https://spotify.prajwal.me/api/spotify)](https://open.spotify.com/user/cotgk31v4nhw20gs5adb29jq5)
