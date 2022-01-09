@@ -1,9 +1,8 @@
 <div align="left">
-<h1 align="center">Konichiwa!, Orewa PrajjuS<h1>
-<hr>
-<h2>Github Stats:</h2>
+<h1 align="center"><hr>Konichiwa! Orewa PrajjuS<hr></h1>
+<h2><u>Github Stats:</u></h2>
   <p><img src="https://github-readme-stats.vercel.app/api?username=PrajjuS&show_icons=true&theme=midnight-purple"></p>
-<h2>Languages and Tools:<h2>
+<h2><u>Languages and Tools:</u><h2>
   <p>
     <img src="https://img.shields.io/badge/c++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=%2300599C"/>
     <img src="https://img.shields.io/badge/c-000000?style=for-the-badge&logo=c&logoColor=%2300599C"/>
@@ -34,11 +33,11 @@
     <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624"/>
     <img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=0078D6"/>
   </p>
-<h2>Website: </h2>
+<h2><u>Website:</u></h2>
   <p>
     <a align="center" href="https://prajjus.tk"><img src="https://img.shields.io/badge/My%20Website-black?style=for-the-badge"/></a>
   </p>
-<h2>Contact:</h2>
+<h2><u>Contact:</u></h2>
   <p>
     <a href="https://t.me/PrajjuS"><img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=2CA5E0"/></a>
     <a href="theprajjus@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=D14836"/></a>
