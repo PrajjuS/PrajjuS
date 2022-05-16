@@ -1,47 +1,54 @@
-<div align="left">
-<h1 align="center"><hr>Konichiwa! Orewa PrajjuS<hr></h1>
-<h2><u>Github Stats:</u></h2>
-  <p><img src="https://github-readme-stats.vercel.app/api?username=PrajjuS&show_icons=true&theme=midnight-purple"></p>
-<h2><u>Languages and Tools:</u><h2>
-  <p>
-    <img src="https://img.shields.io/badge/c++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=%2300599C"/>
-    <img src="https://img.shields.io/badge/c-000000?style=for-the-badge&logo=c&logoColor=%2300599C"/>
-    <img src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=blue"/>
-    <img src="https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=orange"/>
-    <img src="https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5&logoColor=%23E34F26"/>
-    <img src="https://img.shields.io/badge/css3-000000?style=for-the-badge&logo=css3&logoColor=%231572B6"/>
-    <img src="https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=grey"/>
-    <img src="https://img.shields.io/badge/-GNU_Bash-000000?style=for-the-badge&logo=GNU-Bash&logoColor=4EAA25"/>
-    <img src="https://img.shields.io/badge/shell_script-000000?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-    <img src="https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql&logoColor=white"/>
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white"/>
-    <img src="https://img.shields.io/badge/gitlab-000000?style=for-the-badge&logo=gitlab&logoColor=black"/>
-    <img src="https://img.shields.io/badge/gitpod-000000?style=for-the-badge&logo=gitpod&logoColor=f06611"/>
-    <img src="https://img.shields.io/badge/heroku-000000?style=for-the-badge&logo=heroku&logoColor=%23430098"/>
-    <img src="https://img.shields.io/badge/docker-000000?style=for-the-badge&logo=docker&logoColor=%230db7ed"/>
-    <img src="https://img.shields.io/badge/Cloudflare-000000?style=for-the-badge&logo=Cloudflare&logoColor=F38020"/>
-    <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Stackoverflow-000000?style=for-the-badge&logo=stack-overflow&logoColor=FE7A16"/>
-    <img src="https://img.shields.io/badge/XDA--Developers-000000?style=for-the-badge&logo=XDA-Developers&logoColor=%23AC6E2F"/>
-    <img src="https://img.shields.io/badge/Repl.it-000000?style=for-the-badge&logo=replit&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7"/>
-    <img src="https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
-    <img src="https://img.shields.io/badge/Android%20Studio-000000?style=for-the-badge&logo=android-studio&logoColor=3DDC84"/>
-    <img src="https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=android&logoColor=3DDC84"/>
-    <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624"/>
-    <img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=0078D6"/>
-  </p>
-<h2><u>Website:</u></h2>
-  <p>
-    <a align="center" href="https://prajjus.tk"><img src="https://img.shields.io/badge/My%20Website-black?style=for-the-badge"/></a>
-  </p>
-<h2><u>Contact:</u></h2>
-  <p>
-    <a href="https://t.me/PrajjuS"><img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=2CA5E0"/></a>
-    <a href="theprajjus@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=D14836"/></a>
-  </p>
+<h1 align="center"><hr>Konichiwa, Orewa PrajjuS<hr></h1>
+
+
+<img src="https://telegra.ph/file/6041d22c64479ee5ff802.jpg" alt="Ghoul"/>
+
+
+<h1>Some FAQs</h1>
+
+
+<h2>Who are you?</h2>
+
+Well, no-one special, just an 16 year old Teenager and a Noob Programmer interested in coding, developing, tech, hacking and anime.
+<br>
+Name's <b>PrajjuS</b>, <code>Prajwal.S</code> to be exact. Call me PrajjuS if you wanna.
+
+
+<h2>What are you doing currently? What are you learning?</h2>
+
+Well now I'm stuck with exams till July, so RIP. Usually I code, watch anime and listen to songs. I'm learning and playing around with a few languages, and do some fun things.
+
+- I’m currently working on <a href="https://t.me/projectelixir_bot">Elixir Robot</a>, <a href="https://github.com/SkyLab-Devs/CosmicUserbot">Cosmic Userbot</a> and some <a href="https://github.com/PrajjuS/device_xiaomi_vince">Android stuffs</a>.
+
+- I'm currently learning C, C++, Python, HTML, CSS, Bash and Android Rom Development.
+
+I'll probably learn Java soon, waiting for my exams to end XD.
+
+
+<h2>How can I know more about you?</h2>
+
+You can check out this <a href="https://prajjus.tk">website</a> where I usually post my stuffs.
+
+
+<h2>How can I reach you?</h2>
+
+<a href="https://t.me/PrajjuS"><img src="https://img.shields.io/badge/PrajjuS-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/></a>&nbsp;&nbsp;&nbsp;<a href="theprajjus@gmail.com"><img src="https://img.shields.io/badge/theprajjus@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;&nbsp;&nbsp;<a href="https://forum.xda-developers.com/m/prajjus.10388799/"><img src="https://img.shields.io/badge/PrajjuS-F59714?style=flat-square&logo=xda-developers&logoColor=white" alt="XDA"/></a>
+
+
+<h2>What languages you use and how much do you code?</h2>
+
+Since my exams are going on currently, I'm doing nothing. But I do play with Python and C++ sometimes.
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
+<h2>Can I stalk your spotify?</h2>
+
+<a href="https://open.spotify.com/user/cotgk31v4nhw20gs5adb29jq5"><img src="https://spotify-readme-prajjus.vercel.app/api?theme=dark&rainbow=true" alt="Spotify Currently Playing" width="400px"/></a>
+
+
 <hr>
-</div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prajjus&label=Profile%20Views&color=000000&style=flat"> </p>
+
+
+<img src="https://komarev.com/ghpvc/?username=prajjus&label=Profile%20Views&color=000000&style=flat">
