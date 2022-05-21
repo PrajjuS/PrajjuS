@@ -46,13 +46,13 @@ Since my exams are going on currently, I'm doing nothing. But I do play with Pyt
 
 **🐱 My GitHub Data** 
 
-> 🏆 995 Contributions in the Year 2022
+> 🏆 994 Contributions in the Year 2022
  > 
 > 📦 1.3 MB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 22 Public Repositories 
+> 📜 21 Public Repositories 
  > 
 > 🔑 61 Private Repositories  
  > 
@@ -112,7 +112,7 @@ JavaScript               3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 20/05/2022 19:08:31 UTC
+ Last Updated on 21/05/2022 19:05:36 UTC
 <!--END_SECTION:waka-->
 
 
