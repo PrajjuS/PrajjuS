@@ -85,14 +85,13 @@ Sunday       218 commits    ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TOML                     0 secs              █████████████████████░░░░   85.68% 
-Cheetah                  0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   14.32%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -109,7 +108,7 @@ JavaScript               3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 12/06/2022 18:51:39 UTC
+ Last Updated on 13/06/2022 19:05:50 UTC
 <!--END_SECTION:waka-->
 
 
