@@ -40,21 +40,21 @@ You can check out this <a href="https://prajjus.tk">website</a> where I usually 
 Since my exams are going on currently, I'm doing nothing. But I do play with Python and C++ sometimes.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-44%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-25%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,272 Contributions in the Year 2022
+> 🏆 1,301 Contributions in the Year 2022
  > 
-> 📦 663.0 kB Used in GitHub's Storage 
+> 📦 689.4 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 22 Public Repositories 
  > 
-> 🔑 14 Private Repositories  
+> 🔑 15 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
@@ -102,17 +102,17 @@ Windows                  8 hrs 40 mins       ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   19 repos            █████████████░░░░░░░░░░░░   54.29% 
-Shell                    5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-C++                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.43% 
-Makefile                 3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.57% 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.71%
+Python                   19 repos            █████████████░░░░░░░░░░░░   52.78% 
+C++                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.89% 
+Shell                    5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.89% 
+Makefile                 3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.56%
 
 ```
 
 
 
- Last Updated on 22/06/2022 06:50:46 UTC
+ Last Updated on 22/06/2022 18:56:07 UTC
 <!--END_SECTION:waka-->
 
 
