@@ -40,7 +40,7 @@ You can check out this <a href="https://prajjus.tk">website</a> where I usually 
 Since my exams are going on currently, I'm doing nothing. But I do play with Python and C++ sometimes.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-101%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26%20Thousand%20lines%20of%20code-blue)
 
@@ -56,49 +56,6 @@ Since my exams are going on currently, I'm doing nothing. But I do play with Pyt
  > 
 > 🔑 19 Private Repositories  
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    243 commits    █████░░░░░░░░░░░░░░░░░░░░   19.71% 
-🌆 Daytime    336 commits    ██████░░░░░░░░░░░░░░░░░░░   27.25% 
-🌃 Evening    608 commits    ████████████░░░░░░░░░░░░░   49.31% 
-🌙 Night      46 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.73%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       218 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.68% 
-Tuesday      246 commits    █████░░░░░░░░░░░░░░░░░░░░   19.95% 
-Wednesday    171 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.87% 
-Thursday     123 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.98% 
-Friday       117 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.49% 
-Saturday     116 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.41% 
-Sunday       242 commits    █████░░░░░░░░░░░░░░░░░░░░   19.63%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-sh                       6 hrs 45 mins       ██████████████████░░░░░░░   75.1% 
-Python                   2 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   24.9%
-
-🔥 Editors: 
-Zsh                      6 hrs 25 mins       █████████████████░░░░░░░░   71.33% 
-PyCharmCore              2 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   24.9% 
-Unknown Editor           20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.77%
-
-💻 Operating System: 
-WSL                      6 hrs 45 mins       ██████████████████░░░░░░░   75.1% 
-Windows                  2 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   24.9%
-
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -112,7 +69,7 @@ C                        3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 03/09/2022 18:54:47 UTC
+ Last Updated on 04/09/2022 18:57:26 UTC
 <!--END_SECTION:waka-->
 
 
