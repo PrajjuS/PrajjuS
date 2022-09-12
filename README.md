@@ -40,13 +40,13 @@ You can check out this <a href="https://prajjus.tk">website</a> where I usually 
 Since my exams are going on currently, I'm doing nothing. But I do play with Python and C++ sometimes.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-130%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-132%20hrs%208%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,461 Contributions in the Year 2022
+> 🏆 1,463 Contributions in the Year 2022
  > 
 > 📦 3.4 MB Used in GitHub's Storage 
  > 
@@ -85,17 +85,16 @@ Sunday       244 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-sh                       3 hrs 44 mins       ████████████████████░░░░░   80.34% 
-Python                   50 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.06% 
-Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.6%
+sh                       4 hrs 20 mins       ██████████████████████░░░   90.22% 
+Python                   28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.78%
 
 🔥 Editors: 
-Zsh                      3 hrs 44 mins       ████████████████████░░░░░   80.34% 
-PyCharmCore              54 mins             █████░░░░░░░░░░░░░░░░░░░░   19.66%
+Zsh                      4 hrs 20 mins       ██████████████████████░░░   90.22% 
+PyCharmCore              28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.78%
 
 💻 Operating System: 
-WSL                      3 hrs 44 mins       ████████████████████░░░░░   80.34% 
-Windows                  54 mins             █████░░░░░░░░░░░░░░░░░░░░   19.66%
+WSL                      4 hrs 20 mins       ██████████████████████░░░   90.22% 
+Windows                  28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.78%
 
 ```
 
@@ -112,7 +111,7 @@ C                        3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 11/09/2022 18:56:52 UTC
+ Last Updated on 12/09/2022 19:01:09 UTC
 <!--END_SECTION:waka-->
 
 
