@@ -40,19 +40,19 @@ You can check out this <a href="https://prajjus.tk">website</a> where I usually 
 Since my exams are going on currently, I'm doing nothing. But I do play with Python and C++ sometimes.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-133%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-133%20hrs%2019%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,465 Contributions in the Year 2022
+> 🏆 1,463 Contributions in the Year 2022
  > 
 > 📦 3.3 MB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 26 Public Repositories 
+> 📜 24 Public Repositories 
  > 
 > 🔑 20 Private Repositories  
  > 
@@ -85,16 +85,16 @@ Sunday       244 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-sh                       3 hrs 38 mins       ███████████████████████░░   95.42% 
-Python                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.58%
+sh                       3 hrs 35 mins       ███████████████████████░░   95.36% 
+Python                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.64%
 
 🔥 Editors: 
-Zsh                      3 hrs 38 mins       ███████████████████████░░   95.42% 
-PyCharmCore              10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.58%
+Zsh                      3 hrs 35 mins       ███████████████████████░░   95.36% 
+PyCharmCore              10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.64%
 
 💻 Operating System: 
-WSL                      3 hrs 38 mins       ███████████████████████░░   95.42% 
-Windows                  10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.58%
+WSL                      3 hrs 35 mins       ███████████████████████░░   95.36% 
+Windows                  10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.64%
 
 ```
 
@@ -111,7 +111,7 @@ C                        3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 15/09/2022 19:03:41 UTC
+ Last Updated on 16/09/2022 19:07:00 UTC
 <!--END_SECTION:waka-->
 
 
