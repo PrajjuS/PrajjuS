@@ -40,13 +40,13 @@ You can check out this <a href="https://prajjus.tk">website</a> where I usually 
 Since my exams are going on currently, I'm doing nothing. But I do play with Python and C++ sometimes.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-134%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-135%20hrs%2011%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,464 Contributions in the Year 2022
+> 🏆 1,465 Contributions in the Year 2022
  > 
 > 📦 3.4 MB Used in GitHub's Storage 
  > 
@@ -85,16 +85,16 @@ Sunday       244 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-sh                       3 hrs 28 mins       ███████████████████████░░   93.2% 
-C++                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.8%
+sh                       3 hrs 49 mins       ██████████████████████░░░   90.49% 
+C++                      24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.51%
 
 🔥 Editors: 
-Zsh                      3 hrs 28 mins       ███████████████████████░░   93.2% 
-VS Code                  15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.8%
+Zsh                      3 hrs 49 mins       ██████████████████████░░░   90.49% 
+VS Code                  24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.51%
 
 💻 Operating System: 
-WSL                      3 hrs 28 mins       ███████████████████████░░   93.2% 
-Windows                  15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.8%
+WSL                      3 hrs 49 mins       ██████████████████████░░░   90.49% 
+Windows                  24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.51%
 
 ```
 
@@ -111,7 +111,7 @@ C                        3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 17/09/2022 18:58:48 UTC
+ Last Updated on 18/09/2022 18:56:44 UTC
 <!--END_SECTION:waka-->
 
 
