@@ -40,7 +40,7 @@ You can check out this <a href="https://prajjus.tk">website</a> where I usually 
 Since my exams are going on currently, I'm doing nothing. But I do play with Python and C++ sometimes.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-143%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-145%20hrs%2032%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-27%20Thousand%20lines%20of%20code-blue)
 
@@ -85,13 +85,13 @@ Sunday       224 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-sh                       6 hrs 1 min         █████████████████████████   100.0%
+sh                       8 hrs 10 mins       █████████████████████████   100.0%
 
 🔥 Editors: 
-Zsh                      6 hrs 1 min         █████████████████████████   100.0%
+Zsh                      8 hrs 10 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-WSL                      6 hrs 1 min         █████████████████████████   100.0%
+WSL                      8 hrs 10 mins       █████████████████████████   100.0%
 
 ```
 
@@ -108,7 +108,7 @@ C                        3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 30/09/2022 19:05:04 UTC
+ Last Updated on 01/10/2022 19:04:58 UTC
 <!--END_SECTION:waka-->
 
 
