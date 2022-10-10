@@ -40,7 +40,7 @@ You can check out this <a href="https://prajjus.tk">website</a> where I usually 
 Since my exams are going on currently, I'm doing nothing. But I do play with Python and C++ sometimes.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-148%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-149%20hrs%2046%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-27%20Thousand%20lines%20of%20code-blue)
 
@@ -85,13 +85,16 @@ Sunday       213 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-sh                       3 hrs 26 mins       █████████████████████████   100.0%
+sh                       3 hrs 45 mins       ██████████████████████░░░   88.83% 
+Python                   28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.17%
 
 🔥 Editors: 
-Zsh                      3 hrs 26 mins       █████████████████████████   100.0%
+Zsh                      3 hrs 45 mins       ██████████████████████░░░   88.83% 
+PyCharmCore              28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.17%
 
 💻 Operating System: 
-WSL                      3 hrs 26 mins       █████████████████████████   100.0%
+WSL                      3 hrs 45 mins       ██████████████████████░░░   88.83% 
+Windows                  28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.17%
 
 ```
 
@@ -108,7 +111,7 @@ C                        3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 09/10/2022 18:59:12 UTC
+ Last Updated on 10/10/2022 19:12:15 UTC
 <!--END_SECTION:waka-->
 
 
