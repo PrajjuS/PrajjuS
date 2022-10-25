@@ -9,20 +9,20 @@
 
 <h2>Who are you?</h2>
 
-Well, no-one special, just an 16 year old Teenager and a Noob Programmer interested in coding, developing, tech, hacking and anime.
+Well, no-one special, just an 17 year old Teenager and a Noob Programmer interested in coding, developing, tech, hacking and anime.
 <br>
 Name's <b>PrajjuS</b>, <code>Prajwal.S</code> to be exact. Call me PrajjuS if you wanna.
 
 
 <h2>What are you doing currently? What are you learning?</h2>
 
-Well now I'm stuck with exams till July, so RIP. Usually I code, watch anime and listen to songs. I'm learning and playing around with a few languages, and do some fun things.
+I usually code, watch anime, draw, listen to songs and play chess (I like it XD). I'm learning and playing around with a few languages, and do some fun things.
 
-- I’m currently working on <a href="https://t.me/projectelixir_bot">Elixir Robot</a>, <a href="https://github.com/SkyLab-Devs/CosmicUserbot">Cosmic Userbot</a> and some <a href="https://github.com/PrajjuS/device_xiaomi_vince">Android stuffs</a>.
+- I’m currently working on <a href="Https://t.me/PrajjuSAssistantBot">Tsukibito Robot</a>, <a href="https://t.me/projectelixir_bot">Elixir Robot</a>, <a href="https://t.me/DumprXBot">DumprXBot</a>, <a href="https://github.com/SkyLab-Devs/CosmicUserbot">Cosmic Userbot</a>, <a href="https://github.com/Noob-OS">Android</a> <a href="https://github.com/PrajjuS/device_xiaomi_vince">Stuffs</a> and some more. See pinned repositories for an idea of what I'm upto (Well some are private ig LOL).
 
 - I'm currently learning C, C++, Python, HTML, CSS, Bash and Android Rom Development.
 
-I'll probably learn Java soon, waiting for my exams to end XD.
+I'll probably learn Java soon...
 
 
 <h2>How can I know more about you?</h2>
@@ -36,8 +36,6 @@ You can check out this <a href="https://prajjus.tk">website</a> where I usually 
 
 
 <h2>What languages you use and how much do you code?</h2>
-
-Since my exams are going on currently, I'm doing nothing. But I do play with Python and C++ sometimes.
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-161%20hrs%202%20mins-blue)
