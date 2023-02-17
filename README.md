@@ -20,14 +20,14 @@ I usually code, watch anime, draw, listen to songs and play chess (I like it XD)
 
 - I’m currently working on <a href="Https://t.me/PrajjuSAssistantBot">Tsukibito Robot</a>, <a href="https://t.me/projectelixir_bot">Elixir Robot</a>, <a href="https://t.me/DumprXBot">DumprXBot</a>, <a href="https://github.com/SkyLab-Devs/CosmicUserbot">Cosmic Userbot</a>, <a href="https://github.com/Noob-OS">Android</a> <a href="https://github.com/PrajjuS/device_xiaomi_vince">Stuffs</a> and some more. See pinned repositories for an idea of what I'm upto (Well some are private ig LOL).
 
-- I'm currently learning C, C++, Python, HTML, CSS, Bash and Android Rom Development.
+- I'm currently learning C, C++, Python, Java, HTML, CSS, Bash and Android Rom Development.
 
-I'll probably learn Java soon...
+I'll probably learn Go soon...
 
 
 <h2>How can I know more about you?</h2>
 
-You can check out this <a href="https://prajjus.tk">website</a> where I usually post my stuffs.
+You can check out this <a href="https://prajjus.site">website</a> where I usually post my stuffs.
 
 
 <h2>How can I reach you?</h2>
