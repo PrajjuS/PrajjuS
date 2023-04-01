@@ -9,7 +9,7 @@
 
 <h2>Who are you?</h2>
 
-Well, no-one special, just an 17 year old Teenager and a Noob Programmer interested in coding, developing, tech, hacking and anime.
+Well, no-one special, just an 18 year old Noob Programmer interested in coding, developing, tech, hacking and anime.
 <br>
 Name's <b>PrajjuS</b>, <code>Prajwal.S</code> to be exact. Call me PrajjuS if you wanna.
 
