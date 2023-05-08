@@ -50,9 +50,9 @@ You can check out this <a href="https://prajjus.site">website</a> where I usuall
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 26 Public Repositories 
+> 📜 27 Public Repositories 
  > 
-> 🔑 24 Private Repositories  
+> 🔑 23 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
@@ -112,7 +112,7 @@ Makefile                 4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/05/2023 18:47:05 UTC
+ Last Updated on 08/05/2023 18:47:39 UTC
 <!--END_SECTION:waka-->
 
 
