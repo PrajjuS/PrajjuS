@@ -40,7 +40,7 @@ You can check out this <a href="https://prajjus.site">website</a> where I usuall
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-551%20hrs%2025%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-49%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-54%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -110,7 +110,7 @@ HTML                     4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 15/12/2023 18:47:36 UTC
+ Last Updated on 16/12/2023 18:46:48 UTC
 <!--END_SECTION:waka-->
 
 
