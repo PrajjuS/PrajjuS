@@ -44,7 +44,7 @@ You can check out this <a href="https://prajjus.site">website</a> where I usuall
 
 **🐱 My GitHub Data** 
 
-> 🏆 699 Contributions in the Year 2023
+> 🏆 0 Contributions in the Year 2024
  > 
 > 📦 3.4 MB Used in GitHub's Storage 
  > 
@@ -106,7 +106,7 @@ Makefile                 4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2023 18:50:17 UTC
+ Last Updated on 01/01/2024 18:49:19 UTC
 <!--END_SECTION:waka-->
 
 
