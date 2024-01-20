@@ -16,7 +16,7 @@ Name's <b>PrajjuS</b>, <code>Prajwal.S</code> to be exact. Call me PrajjuS if yo
 
 <h2>What are you doing currently? What are you learning?</h2>
 
-I usually code, watch anime, draw, listen to songs and play chess (I like it XD). I'm learning and playing around with a few languages, and do some fun things.
+I usually code, watch anime, draw, listen to songs and play chess. I'm learning and playing around with a few languages, and do some fun things.
 
 - I’m currently working on <a href="Https://t.me/PrajjuSAssistantBot">Tsukibito Robot</a>, <a href="https://t.me/projectelixir_bot">Elixir Robot</a>, <a href="https://t.me/DumprXBot">DumprXBot</a>, <a href="https://github.com/SkyLab-Devs/CosmicUserbot">Cosmic Userbot</a>, <a href="https://github.com/Noob-OS">Android</a> <a href="https://github.com/PrajjuS/device_xiaomi_vince">Stuffs</a> and some more. See pinned repositories for an idea of what I'm upto (Well some are private ig LOL).
 
@@ -27,7 +27,7 @@ I'll probably learn Go soon...
 
 <h2>How can I know more about you?</h2>
 
-You can check out this <a href="https://prajjus.site">website</a> where I usually post my stuffs.
+You can check out this <a href="https://prajjus.website">website</a> where I usually post my stuffs.
 
 
 <h2>How can I reach you?</h2>
