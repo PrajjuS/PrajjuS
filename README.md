@@ -38,7 +38,7 @@ You can check out this <a href="https://prajjus.website">website</a> where I usu
 <h2>What languages you use and how much do you code?</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-583%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-583%20hrs%2012%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-49%20Thousand%20lines%20of%20code-blue)
 
@@ -83,13 +83,13 @@ Sunday       171 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-sh                       1 hr 22 mins        █████████████████████████   100.0%
+sh                       1 hr 32 mins        █████████████████████████   100.0%
 
 🔥 Editors: 
-Zsh                      1 hr 22 mins        █████████████████████████   100.0%
+Zsh                      1 hr 32 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-WSL                      1 hr 22 mins        █████████████████████████   100.0%
+WSL                      1 hr 32 mins        █████████████████████████   100.0%
 
 ```
 
@@ -106,7 +106,7 @@ Makefile                 4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/02/2024 18:46:14 UTC
+ Last Updated on 17/02/2024 18:45:36 UTC
 <!--END_SECTION:waka-->
 
 
