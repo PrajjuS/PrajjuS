@@ -38,9 +38,9 @@ You can check out this <a href="https://prajjus.website">website</a> where I usu
 <h2>What languages you use and how much do you code?</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-583%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-584%20hrs%2018%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-53%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-49%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -83,13 +83,16 @@ Sunday       171 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-sh                       1 hr 32 mins        █████████████████████████   100.0%
+HTML                     1 hr 6 mins         ███████████████████░░░░░░   76.88% 
+sh                       19 mins             █████░░░░░░░░░░░░░░░░░░░░   23.12%
 
 🔥 Editors: 
-Zsh                      1 hr 32 mins        █████████████████████████   100.0%
+VS Code                  1 hr 6 mins         ███████████████████░░░░░░   76.88% 
+Zsh                      19 mins             █████░░░░░░░░░░░░░░░░░░░░   23.12%
 
 💻 Operating System: 
-WSL                      1 hr 32 mins        █████████████████████████   100.0%
+Windows                  1 hr 6 mins         ███████████████████░░░░░░   76.88% 
+WSL                      19 mins             █████░░░░░░░░░░░░░░░░░░░░   23.12%
 
 ```
 
@@ -106,7 +109,7 @@ Makefile                 4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 18/02/2024 18:48:14 UTC
+ Last Updated on 19/02/2024 18:45:45 UTC
 <!--END_SECTION:waka-->
 
 
