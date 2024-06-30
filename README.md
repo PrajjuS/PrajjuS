@@ -38,6 +38,8 @@ You can check out this <a href="https://prajjus.website">website</a> where I usu
 <h2>What languages you use and how much do you code?</h2>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-706%20hrs%2022%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-346.3%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -103,7 +105,7 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/06/2024 19:00:16 UTC
+ Last Updated on 30/06/2024 18:59:32 UTC
 <!--END_SECTION:waka-->
 
 
