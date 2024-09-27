@@ -38,7 +38,7 @@ You can check out this <a href="https://prajjus.website">website</a> where I usu
 <h2>What languages you use and how much do you code?</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-768%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-769%20hrs%2019%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-362.8%20thousand%20lines%20of%20code-blue)
 
@@ -46,13 +46,13 @@ You can check out this <a href="https://prajjus.website">website</a> where I usu
 
 > 📦 3.4 MB Used in GitHub's Storage 
  > 
-> 🏆 321 Contributions in the Year 2024
+> 🏆 335 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
 > 📜 31 Public Repositories 
  > 
-> 🔑 38 Private Repositories 
+> 🔑 39 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -81,13 +81,19 @@ Sunday                   2224 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-sh                       1 hr 19 mins        █████████████████████████   100.00 % 
+sh                       3 hrs 30 mins       █████████████████░░░░░░░░   69.48 % 
+Python                   1 hr 25 mins        ███████░░░░░░░░░░░░░░░░░░   28.42 % 
+YAML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🔥 Editors: 
-Zsh                      1 hr 19 mins        █████████████████████████   100.00 % 
+Zsh                      3 hrs 30 mins       █████████████████░░░░░░░░   69.48 % 
+VS Code                  1 hr 32 mins        ████████░░░░░░░░░░░░░░░░░   30.52 % 
 
 💻 Operating System: 
-WSL                      1 hr 19 mins        █████████████████████████   100.00 % 
+WSL                      3 hrs 30 mins       █████████████████░░░░░░░░   69.48 % 
+Windows                  1 hr 32 mins        ████████░░░░░░░░░░░░░░░░░   30.52 % 
 ```
 
 **I Mostly Code in Python** 
@@ -103,7 +109,7 @@ KerboScript              1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/09/2024 19:07:11 UTC
+ Last Updated on 27/09/2024 19:07:16 UTC
 <!--END_SECTION:waka-->
 
 
