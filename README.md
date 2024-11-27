@@ -46,6 +46,8 @@ You can check out this <a href="https://prajjus.website">website</a> where I usu
 
 > 📦 3.4 MB Used in GitHub's Storage 
  > 
+> 🏆 530 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 31 Public Repositories 
@@ -107,7 +109,7 @@ KerboScript              1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/11/2024 19:06:55 UTC
+ Last Updated on 27/11/2024 19:08:22 UTC
 <!--END_SECTION:waka-->
 
 
