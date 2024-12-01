@@ -38,58 +38,20 @@ You can check out this <a href="https://prajjus.website">website</a> where I usu
 <h2>What languages you use and how much do you code?</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-832%20hrs%2016%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-733.9%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-790.3%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 3.4 MB Used in GitHub's Storage 
  > 
-> 🏆 530 Contributions in the Year 2024
+> 🏆 547 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
-> 📜 31 Public Repositories 
+> 📜 32 Public Repositories 
  > 
 > 🔑 41 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                3740 commits        ███████░░░░░░░░░░░░░░░░░░   27.73 % 
-🌆 Daytime                4600 commits        █████████░░░░░░░░░░░░░░░░   34.10 % 
-🌃 Evening                4814 commits        █████████░░░░░░░░░░░░░░░░   35.69 % 
-🌙 Night                  334 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   991 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
-Tuesday                  3250 commits        ██████░░░░░░░░░░░░░░░░░░░   24.10 % 
-Wednesday                2285 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
-Thursday                 2550 commits        █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
-Friday                   1163 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
-Saturday                 1044 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
-Sunday                   2205 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-sh                       4 mins              █████████████████████████   100.00 % 
-
-🔥 Editors: 
-Zsh                      4 mins              █████████████████████████   100.00 % 
-
-💻 Operating System: 
-WSL                      4 mins              █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -103,7 +65,7 @@ KerboScript              1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/11/2024 19:06:47 UTC
+ Last Updated on 01/12/2024 19:07:13 UTC
 <!--END_SECTION:waka-->
 
 
