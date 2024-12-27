@@ -38,7 +38,7 @@ You can check out this <a href="https://prajjus.website">website</a> where I usu
 <h2>What languages you use and how much do you code?</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-895%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-898%20hrs%2059%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
 
@@ -46,11 +46,11 @@ You can check out this <a href="https://prajjus.website">website</a> where I usu
 
 > 📦 3.4 MB Used in GitHub's Storage 
  > 
-> 🏆 760 Contributions in the Year 2024
+> 🏆 762 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
-> 📜 32 Public Repositories 
+> 📜 33 Public Repositories 
  > 
 > 🔑 41 Private Repositories 
  > 
@@ -81,19 +81,19 @@ Sunday                   2293 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               9 hrs 48 mins       █████████████████░░░░░░░░   66.75 % 
-sh                       2 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
-Solidity                 2 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
-Bash                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
-JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+JavaScript               12 hrs 12 mins      ████████████████░░░░░░░░░   65.42 % 
+sh                       3 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
+Solidity                 2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
+Bash                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+Other                    14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 30 mins      █████████████████████░░░░   85.10 % 
-Zsh                      2 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
+VS Code                  15 hrs 37 mins      █████████████████████░░░░   83.78 % 
+Zsh                      3 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
 
 💻 Operating System: 
-Windows                  12 hrs 30 mins      █████████████████████░░░░   85.10 % 
-WSL                      2 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
+Windows                  15 hrs 37 mins      █████████████████████░░░░   83.78 % 
+WSL                      3 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
 ```
 
 **I Mostly Code in Python** 
@@ -109,7 +109,7 @@ KerboScript              1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/12/2024 19:03:51 UTC
+ Last Updated on 27/12/2024 19:04:10 UTC
 <!--END_SECTION:waka-->
 
 
