@@ -81,13 +81,13 @@ Sunday                   2293 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-sh                       0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Zsh                      0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -103,7 +103,7 @@ KerboScript              1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/01/2025 19:04:07 UTC
+ Last Updated on 15/01/2025 19:04:20 UTC
 <!--END_SECTION:waka-->
 
 
