@@ -46,6 +46,8 @@ You can check out this <a href="https://prajjus.website">website</a> where I usu
 
 > 📦 3.4 MB Used in GitHub's Storage 
  > 
+> 🏆 78 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 33 Public Repositories 
@@ -79,13 +81,13 @@ Sunday                   2402 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-sh                       3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Zsh                      3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -101,7 +103,7 @@ JavaScript               3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 05/02/2025 19:04:17 UTC
+ Last Updated on 06/02/2025 19:05:09 UTC
 <!--END_SECTION:waka-->
 
 
