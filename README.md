@@ -38,7 +38,7 @@ You can check out this <a href="https://prajjus.website">website</a> where I usu
 <h2>What languages you use and how much do you code?</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-939%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-939%20hrs%2023%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.2%20million%20lines%20of%20code-blue)
 
@@ -46,7 +46,7 @@ You can check out this <a href="https://prajjus.website">website</a> where I usu
 
 > 📦 3.4 MB Used in GitHub's Storage 
  > 
-> 🏆 140 Contributions in the Year 2025
+> 🏆 141 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -81,13 +81,15 @@ Sunday                   2348 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               19 mins             ████████████████████████░   96.47 % 
+JavaScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  20 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  20 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -103,7 +105,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/03/2025 19:06:22 UTC
+ Last Updated on 18/03/2025 19:10:32 UTC
 <!--END_SECTION:waka-->
 
 
