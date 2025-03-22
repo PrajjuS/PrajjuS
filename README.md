@@ -38,7 +38,7 @@ You can check out this <a href="https://prajjus.website">website</a> where I usu
 <h2>What languages you use and how much do you code?</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-939%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-939%20hrs%2035%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.2%20million%20lines%20of%20code-blue)
 
@@ -81,15 +81,16 @@ Sunday                   2348 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               19 mins             ████████████████████████░   96.47 % 
-JavaScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+TypeScript               20 mins             ████████████████░░░░░░░░░   62.59 % 
+C++                      8 mins              ███████░░░░░░░░░░░░░░░░░░   26.07 % 
+JavaScript               3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-VS Code                  20 mins             █████████████████████████   100.00 % 
+VS Code                  33 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  20 mins             █████████████████████████   100.00 % 
+Windows                  33 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -105,7 +106,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 21/03/2025 19:09:04 UTC
+ Last Updated on 22/03/2025 19:02:30 UTC
 <!--END_SECTION:waka-->
 
 
