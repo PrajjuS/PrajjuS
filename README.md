@@ -46,8 +46,6 @@ You can check out this <a href="https://prajjus.website">website</a> where I usu
 
 > 📦 3.4 MB Used in GitHub's Storage 
  > 
-> 🏆 202 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 34 Public Repositories 
@@ -109,7 +107,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/05/2025 19:08:20 UTC
+ Last Updated on 15/05/2025 19:10:33 UTC
 <!--END_SECTION:waka-->
 
 
