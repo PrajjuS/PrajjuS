@@ -38,13 +38,15 @@ You can check out this <a href="https://prajjus.website">website</a> where I usu
 <h2>What languages you use and how much do you code?</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-963%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-963%20hrs%2030%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 3.4 MB Used in GitHub's Storage 
+ > 
+> 🏆 202 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -79,19 +81,14 @@ Sunday                   2441 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 2 hrs 15 mins       █████████████████░░░░░░░░   67.19 % 
-TypeScript               16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
-JavaScript               13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
-TSConfig                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
-sh                       7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+JSON                     7 mins              ████████████████████████░   94.38 % 
+TypeScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 14 mins       ████████████████████████░   96.43 % 
-Zsh                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+VS Code                  7 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 14 mins       ████████████████████████░   96.43 % 
-WSL                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Windows                  7 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -107,7 +104,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 18/05/2025 19:05:24 UTC
+ Last Updated on 19/05/2025 19:09:48 UTC
 <!--END_SECTION:waka-->
 
 
