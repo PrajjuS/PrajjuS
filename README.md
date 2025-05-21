@@ -38,8 +38,6 @@ You can check out this <a href="https://prajjus.website">website</a> where I usu
 <h2>What languages you use and how much do you code?</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-963%20hrs%2030%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -54,43 +52,6 @@ You can check out this <a href="https://prajjus.website">website</a> where I usu
  > 
 > 🔑 43 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                4088 commits        ███████░░░░░░░░░░░░░░░░░░   27.60 % 
-🌆 Daytime                5253 commits        █████████░░░░░░░░░░░░░░░░   35.46 % 
-🌃 Evening                5050 commits        █████████░░░░░░░░░░░░░░░░   34.09 % 
-🌙 Night                  422 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   1098 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-Tuesday                  3563 commits        ██████░░░░░░░░░░░░░░░░░░░   24.05 % 
-Wednesday                2389 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
-Thursday                 2722 commits        █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
-Friday                   1352 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
-Saturday                 1248 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
-Sunday                   2441 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-JSON                     7 mins              ████████████████████████░   94.38 % 
-TypeScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
-
-🔥 Editors: 
-VS Code                  7 mins              █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  7 mins              █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -104,7 +65,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/05/2025 19:13:40 UTC
+ Last Updated on 21/05/2025 19:09:58 UTC
 <!--END_SECTION:waka-->
 
 
