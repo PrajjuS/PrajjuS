@@ -38,7 +38,7 @@ You can check out this <a href="https://prajjus.website">website</a> where I usu
 <h2>What languages you use and how much do you code?</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-974%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-975%20hrs%2010%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
 
@@ -81,13 +81,16 @@ Sunday                   2460 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C                        32 mins             ████████████████████░░░░░   81.91 % 
+sh                       7 mins              █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  32 mins             ████████████████████░░░░░   81.91 % 
+Zsh                      7 mins              █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  32 mins             ████████████████████░░░░░   81.91 % 
+WSL                      7 mins              █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
 ```
 
 **I Mostly Code in Python** 
@@ -103,7 +106,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/06/2025 19:12:54 UTC
+ Last Updated on 14/06/2025 19:07:12 UTC
 <!--END_SECTION:waka-->
 
 
