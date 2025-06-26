@@ -1,4 +1,4 @@
-<h1 align="center"><hr>Konichiwa, Orewa PrajjuS<hr></h1>
+<h1 align="center"><hr>Hello, I'm PrajjuS<hr></h1>
 
 
 <img src="https://telegra.ph/file/6041d22c64479ee5ff802.jpg" alt="Ghoul"/>
@@ -9,7 +9,7 @@
 
 <h2>Who are you?</h2>
 
-Well, no-one special, just an 18 year old Noob Programmer interested in coding, developing, tech, hacking and anime.
+Well, no-one special, just an 20 year old Noob Programmer interested in coding, developing, tech, hacking and anime.
 <br>
 Name's <b>PrajjuS</b>, <code>Prajwal.S</code> to be exact. Call me PrajjuS if you wanna.
 
@@ -27,7 +27,7 @@ I'll probably learn Go soon...
 
 <h2>How can I know more about you?</h2>
 
-You can check out this <a href="https://prajjus.website">website</a> where I usually post my stuffs.
+You can check out this <a href="https://prajjus.xyz">website</a> where I usually post my stuffs.
 
 
 <h2>How can I reach you?</h2>
