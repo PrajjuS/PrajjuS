@@ -81,13 +81,13 @@ Sunday                   2441 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-sh                       4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Zsh                      4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -103,7 +103,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/07/2025 19:10:50 UTC
+ Last Updated on 04/07/2025 19:10:40 UTC
 <!--END_SECTION:waka-->
 
 
