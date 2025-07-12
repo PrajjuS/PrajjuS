@@ -1,101 +1,111 @@
 <h1 align="center"><hr>Hello, I'm PrajjuS<hr></h1>
 
+### About me
 
-<img src="https://telegra.ph/file/6041d22c64479ee5ff802.jpg" alt="Ghoul"/>
+I'm Prajwal, a 20-year-old interested in coding, developing, open source and tech.
+
+I'm actively exploring new technologies, contributing to the open-source world and learning various programming languages. I enjoy creating software to solve real-world problems and to contribute value to others.
+
+---
+
+### Projects I'm Involved In
+
+I've worked on several projects, some of which are pinned on my GitHub. A few are private, but many are open-source and available to explore.
+
+Some notable ones include:
+
+- Telegram bots like [Elixir Robot](https://t.me/projectelixir_bot), [DumprX Bot](https://t.me/DumprXBot), [Tsukibito](https://t.me/PrajjuSAssistantBot)
+, [Cosmic Userbot](https://github.com/SkyLab-Devs/CosmicUserbot)
+- [Android ROMs](https://github.com/Noob-OS) and [device trees](https://github.com/PrajjuS/device_xiaomi_vince)
+- Research projects like [Medical Blockchain](https://github.com/PrajjuS/Medical-Blockchain)
+- Hackathon projects like [TrackSure](https://github.com/TheNoMadDevs/TrackSure)
+
+> Check my [repositories](https://github.com/PrajjuS?tab=repositories) for more.
+
+---
+
+### Things I'm Learning
+
+- **Languages**: `Python`, `TypeScript`, `JavaScript`, `Java`, `Bash`, `C`, `C++`
+- **Android ROM Dev**: Build systems, device trees, kernel configs
+- **Upcoming**: Planning to learn `Go`
+
+---
+
+### Reach Me
 
 
-<h1>Some FAQs</h1>
+<a href="https://prajjus.xyz"><img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=githubpages&logoColor=white" alt="Website"/></a>
+&nbsp;&nbsp;
+<a href="mailto:theprajjus@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+&nbsp;&nbsp;
+<a href="https://telegram.me/PrajjuS"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/></a>
+&nbsp;&nbsp;
+<a href="https://forum.xda-developers.com/m/prajjus.10388799/"><img src="https://img.shields.io/badge/XDA-F59714?style=flat-square&logo=xda-developers&logoColor=white" alt="XDA"/></a>
 
+---
 
-<h2>Who are you?</h2>
-
-Well, no-one special, just an 20 year old Noob Programmer interested in coding, developing, tech, hacking and anime.
-<br>
-Name's <b>PrajjuS</b>, <code>Prajwal.S</code> to be exact. Call me PrajjuS if you wanna.
-
-
-<h2>What are you doing currently? What are you learning?</h2>
-
-I usually code, watch anime, draw, listen to songs and play chess. I'm learning and playing around with a few languages, and do some fun things.
-
-- I’m currently working on <a href="Https://t.me/PrajjuSAssistantBot">Tsukibito Robot</a>, <a href="https://t.me/projectelixir_bot">Elixir Robot</a>, <a href="https://t.me/DumprXBot">DumprXBot</a>, <a href="https://github.com/SkyLab-Devs/CosmicUserbot">Cosmic Userbot</a>, <a href="https://github.com/Noob-OS">Android</a> <a href="https://github.com/PrajjuS/device_xiaomi_vince">Stuffs</a> and some more. See pinned repositories for an idea of what I'm upto (Well some are private ig LOL).
-
-- I'm currently learning C, C++, Python, Java, HTML, CSS, Bash and Android Rom Development.
-
-I'll probably learn Go soon...
-
-
-<h2>How can I know more about you?</h2>
-
-You can check out this <a href="https://prajjus.xyz">website</a> where I usually post my stuffs.
-
-
-<h2>How can I reach you?</h2>
-
-<a href="https://t.me/PrajjuS"><img src="https://img.shields.io/badge/PrajjuS-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/></a>&nbsp;&nbsp;&nbsp;<a href="theprajjus@gmail.com"><img src="https://img.shields.io/badge/theprajjus@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;&nbsp;&nbsp;<a href="https://forum.xda-developers.com/m/prajjus.10388799/"><img src="https://img.shields.io/badge/PrajjuS-F59714?style=flat-square&logo=xda-developers&logoColor=white" alt="XDA"/></a>
-
-
-<h2>What languages you use and how much do you code?</h2>
+### What I've done so far
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-983%20hrs%205%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 3.4 MB Used in GitHub's Storage 
- > 
+> 📦 3.4 MB Used in GitHub's Storage
+ >
 > 💼 Opted to Hire
- > 
-> 📜 33 Public Repositories 
- > 
-> 🔑 46 Private Repositories 
- > 
-**I'm an Early 🐤** 
+ >
+> 📜 33 Public Repositories
+ >
+> 🔑 46 Private Repositories
+ >
+**I'm an Early 🐤**
 
 ```text
-🌞 Morning                4105 commits        ███████░░░░░░░░░░░░░░░░░░   27.57 % 
-🌆 Daytime                5281 commits        █████████░░░░░░░░░░░░░░░░   35.47 % 
-🌃 Evening                5079 commits        █████████░░░░░░░░░░░░░░░░   34.12 % 
-🌙 Night                  422 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+🌞 Morning                4105 commits        ███████░░░░░░░░░░░░░░░░░░   27.57 %
+🌆 Daytime                5281 commits        █████████░░░░░░░░░░░░░░░░   35.47 %
+🌃 Evening                5079 commits        █████████░░░░░░░░░░░░░░░░   34.12 %
+🌙 Night                  422 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
 ```
-📅 **I'm Most Productive on Tuesday** 
+📅 **I'm Most Productive on Tuesday**
 
 ```text
-Monday                   1108 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
-Tuesday                  3574 commits        ██████░░░░░░░░░░░░░░░░░░░   24.01 % 
-Wednesday                2395 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-Thursday                 2729 commits        █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
-Friday                   1370 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
-Saturday                 1259 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
-Sunday                   2452 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
+Monday                   1108 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 %
+Tuesday                  3574 commits        ██████░░░░░░░░░░░░░░░░░░░   24.01 %
+Wednesday                2395 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.09 %
+Thursday                 2729 commits        █████░░░░░░░░░░░░░░░░░░░░   18.33 %
+Friday                   1370 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 %
+Saturday                 1259 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 %
+Sunday                   2452 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.47 %
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Kolkata
 
-💬 Programming Languages: 
+💬 Programming Languages:
 No Activity Tracked This Week
 
-🔥 Editors: 
+🔥 Editors:
 No Activity Tracked This Week
 
-💻 Operating System: 
+💻 Operating System:
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in Python** 
+**I Mostly Code in Python**
 
 ```text
-Python                   44 repos            █████████████░░░░░░░░░░░░   50.57 % 
-TypeScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
-JavaScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
-Makefile                 4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
-CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+Python                   44 repos            █████████████░░░░░░░░░░░░   50.57 %
+TypeScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
+JavaScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
+Makefile                 4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
+CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
 ```
 
 
@@ -104,13 +114,6 @@ CSS                      1 repo              ░░░░░░░░░░░�
  Last Updated on 11/07/2025 19:12:17 UTC
 <!--END_SECTION:waka-->
 
-
-<h2>Can I stalk your spotify?</h2>
-
-<a href="https://open.spotify.com/user/cotgk31v4nhw20gs5adb29jq5"><img src="https://spotify-readme-prajjus.vercel.app/api?theme=dark&rainbow=true" alt="Spotify Currently Playing" width="400px"/></a>
-
-
-<hr>
-
+---
 
 <img src="https://komarev.com/ghpvc/?username=prajjus&label=Profile%20Views&color=000000&style=flat">
