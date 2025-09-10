@@ -48,7 +48,7 @@ Some notable ones include:
 ### What I've done so far
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C064%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C064%20hrs%2038%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.6%20million%20lines%20of%20code-blue)
 
@@ -56,7 +56,7 @@ Some notable ones include:
 
 > 📦 3.4 MB Used in GitHub's Storage 
  > 
-> 🏆 298 Contributions in the Year 2025
+> 🏆 300 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -91,17 +91,17 @@ Sunday                   2493 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     11 hrs 25 mins      ██████████████████████░░░   88.32 % 
-JSON                     1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
-XML                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+Java                     11 hrs 45 mins      ██████████████████████░░░   88.30 % 
+JSON                     1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
+XML                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-IntelliJ IDEA            12 hrs 55 mins      █████████████████████████   100.00 % 
+IntelliJ IDEA            13 hrs 19 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  12 hrs 55 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -117,7 +117,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 09/09/2025 19:06:56 UTC
+ Last Updated on 10/09/2025 19:09:42 UTC
 <!--END_SECTION:waka-->
 
 ---
