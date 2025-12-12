@@ -48,7 +48,7 @@ Some notable ones include:
 ### What I've done so far
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C117%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C118%20hrs%2024%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.7%20million%20lines%20of%20code-blue)
 
@@ -56,7 +56,7 @@ Some notable ones include:
 
 > 📦 3.4 MB Used in GitHub's Storage 
  > 
-> 🏆 373 Contributions in the Year 2025
+> 🏆 377 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -91,15 +91,16 @@ Sunday                   2492 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-sh                       8 mins              █████████████████░░░░░░░░   66.59 % 
-Other                    4 mins              ████████░░░░░░░░░░░░░░░░░   33.41 % 
+sh                       1 hr 15 mins        ███████████████████░░░░░░   77.60 % 
+Python                   17 mins             █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
+Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
 
 🔥 Editors: 
-Zsh                      8 mins              █████████████████░░░░░░░░   66.59 % 
-VS Code                  4 mins              ████████░░░░░░░░░░░░░░░░░   33.41 % 
+Zsh                      1 hr 15 mins        ███████████████████░░░░░░   77.60 % 
+VS Code                  21 mins             ██████░░░░░░░░░░░░░░░░░░░   22.40 % 
 
 💻 Operating System: 
-Mac                      12 mins             █████████████████████████   100.00 % 
+Mac                      1 hr 37 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -115,7 +116,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 10/12/2025 19:14:54 UTC
+ Last Updated on 12/12/2025 19:14:53 UTC
 <!--END_SECTION:waka-->
 
 ---
