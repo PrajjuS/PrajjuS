@@ -48,7 +48,7 @@ Some notable ones include:
 ### What I've done so far
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C125%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C127%20hrs%2016%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.6%20million%20lines%20of%20code-blue)
 
@@ -91,13 +91,17 @@ Sunday                   2491 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+sh                       50 mins             ████████████░░░░░░░░░░░░░   46.42 % 
+Bash                     35 mins             ████████░░░░░░░░░░░░░░░░░   32.92 % 
+JavaScript               20 mins             █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
+Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  58 mins             █████████████░░░░░░░░░░░░   53.58 % 
+Zsh                      50 mins             ████████████░░░░░░░░░░░░░   46.42 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 49 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -113,7 +117,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/12/2025 19:13:58 UTC
+ Last Updated on 28/12/2025 19:13:39 UTC
 <!--END_SECTION:waka-->
 
 ---
