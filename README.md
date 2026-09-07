@@ -48,9 +48,9 @@ Some notable ones include:
 ### What I've done so far
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C203%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C206%20hrs%2022%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-43%20hrs%209%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-46%20hrs%2013%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.62%20million%20lines%20of%20code-blue?style=flat)
 
@@ -93,19 +93,43 @@ Sunday                   2535 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               2 hrs 3 mins        ████████████████░░░░░░░░░   63.84 % 
+Text                     20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
+Markdown                 13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
+TSConfig                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 42 mins        █████████████░░░░░░░░░░░░   52.70 % 
+Agent                    1 hr 15 mins        ██████████░░░░░░░░░░░░░░░   38.83 % 
+Zsh                      16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      3 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 3 hrs 4 mins (94.8%)
+
+✍️ 3,116 lines written by AI, 3 lines written by hand (99.9% AI-written)
+
+🔤 2,273,202 Input Tokens, 14,657 Output Tokens
+
+💵 $7.03 Estimated AI Cost This Week
+
+🧠 19 AI Sessions, 71 AI Prompts
+
+Cursor                   2,503 lines         ████████████████████░░░░░   80.15 % 
+Github-Copilot           620 lines           █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
+Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.9% of written lines came from AI
+📚 Verbose Prompter — average 2,015 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.1% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -121,7 +145,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/09/2026 21:03:01 UTC
+ Last Updated on 07/09/2026 22:04:15 UTC
 <!--END_SECTION:waka-->
 
 ---
