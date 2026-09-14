@@ -93,43 +93,19 @@ Sunday                   2535 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               2 hrs 3 mins        ████████████████░░░░░░░░░   63.84 % 
-Text                     20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
-Markdown                 13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
-TSConfig                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 42 mins        █████████████░░░░░░░░░░░░   52.70 % 
-Agent                    1 hr 15 mins        ██████████░░░░░░░░░░░░░░░   38.83 % 
-Zsh                      16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      3 hrs 14 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 4 mins (94.8%)
-
-✍️ 3,116 lines written by AI, 3 lines written by hand (99.9% AI-written)
-
-🔤 2,273,202 Input Tokens, 14,657 Output Tokens
-
-💵 $7.03 Estimated AI Cost This Week
-
-🧠 19 AI Sessions, 71 AI Prompts
-
-Cursor                   2,503 lines         ████████████████████░░░░░   80.15 % 
-Github-Copilot           620 lines           █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
-Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.9% of written lines came from AI
-📚 Verbose Prompter — average 2,015 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.1% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -145,7 +121,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/09/2026 21:24:29 UTC
+ Last Updated on 14/09/2026 22:19:58 UTC
 <!--END_SECTION:waka-->
 
 ---
